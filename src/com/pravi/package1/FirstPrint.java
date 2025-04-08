@@ -6,5 +6,7 @@ public class FirstPrint {
         System.out.println("Please go to Master branch");
 
         System.out.println("I made a change to this code");
+
+        System.out.println("Checking the difference");
     }
 }
